@@ -1,0 +1,78 @@
+*{
+    
+    background-color: #008060;
+    font-family:sans-serif;
+    color: white;
+    
+    
+}
+
+.features{
+    background-color: #FFFFFF;
+}
+header{
+    
+    text-align: center;
+}
+
+h1{
+    
+    padding-top: 20px;
+    font-size: 40px;
+}
+h2{
+    
+    font-size: 17px;
+    font-family: monospace;
+    
+}
+
+.cadastro{
+    width: 15%;
+    height: 35px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+}
+
+p{
+    padding: 20px 550px ;
+    font-size: 14px;
+}
+
+button{
+    margin: 6px;
+    background-color: #212326;
+    height: 40px;
+    border-radius: 5px; 
+}
+
+.notebook{
+    
+    
+    width: 300px;
+    padding:20px 0px 30px;
+}
+
+
+.custom-shape-divider-bottom-1683733640 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1683733640 svg {
+    position: relative;
+    display: block;
+    width: calc(120% + 1.3px);
+    height: 214px;
+}
+
+.custom-shape-divider-bottom-1683733640 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
